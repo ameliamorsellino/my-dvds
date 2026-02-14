@@ -1,0 +1,6 @@
+- Homepage with movies, where you can click on the covers to reveal the info (date, genre(s), duration, actors, movie description, languages, director(s), trailer and awards). They will be categorized by genres (so one list for each genre/mixed genres such as romcom, etc...), a "you may like" section with movies that are similar (by genre) to the best rated (0 to 5 rating), new movies (recently bought).
+- Filtering by date, genre(s), duration, actors, movie description, languages, director(s) and awards
+- Keyword search
+- Semantic search
+- Add movie feature: manual (for version 1 maybe) or semi-automated (i put movie name and date and the system fills in all the other stuff)
+- Add movies in batch (so i can import my csv initially)

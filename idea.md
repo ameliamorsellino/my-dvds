@@ -4,3 +4,5 @@
 - Semantic search
 - Add movie feature: manual (for version 1 maybe) or semi-automated (i put movie name and date and the system fills in all the other stuff)
 - Add movies in batch (so i can import my csv initially)
+- Suggest random movie function
+
